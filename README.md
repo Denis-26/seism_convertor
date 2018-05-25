@@ -63,6 +63,7 @@ sudo pip3 install .
 Converts all files in folder **inputfolder** from format **from_** to format **to_**
 
 **inputfolder:** folder where files **from_** format is stored
+
 **outfolder:** folder where files **to_** format will store
 
 # Usage
